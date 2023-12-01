@@ -1,4 +1,4 @@
-with open('input') as file:
+with open('./input/input') as file:
     text = file.readlines()
 
 calibrated_numbers = []
